@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/iiviirv/irnova-site/main/brand/nova-logo-gradient.svg" width="70" alt="Nova">
 
 <div align="right">
-  <a href="README.fa.md">🇮🇷 فارسی</a>
+  <a href="README.fa.md"><img src="https://raw.githubusercontent.com/IRNova/Nova-Proxy/main/flag-iran.svg" height="16" alt="Iran (Lion and Sun)" /> فارسی</a>
 </div>
 
 # Nova Proxy
@@ -248,9 +248,19 @@ MIT — see the [LICENSE](LICENSE) file.
 
 <div align="center">
 
-Made for Iran 🇮🇷 — and anyone who needs a free, open internet.
+Made for Iran <img src="https://raw.githubusercontent.com/IRNova/Nova-Proxy/main/flag-iran.svg" height="16" alt="Iran (Lion and Sun)" /> — and anyone who needs a free, open internet.
 **Nothing about your traffic is logged. The proxy is yours.**
 
 📖 [Persian version](README.fa.md)
 
+---
+<a href="https://www.star-history.com/?repos=IRNova%2FNova-Proxy&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=IRNova/Nova-Proxy&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=IRNova/Nova-Proxy&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=IRNova/Nova-Proxy&type=date&legend=top-left" />
+ </picture>
+</a>
+
 </div>
+

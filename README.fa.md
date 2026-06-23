@@ -247,9 +247,17 @@ MIT — فایل [LICENSE](LICENSE) را ببینید.
 
 <div align="center">
 
-ساخته شده برای ایران 🇮🇷 — و هرکس که به اینترنت آزاد نیاز دارد.
+ساخته شده برای ایران <img src="https://raw.githubusercontent.com/IRNova/Nova-Proxy/main/flag-iran.svg" height="16" alt="Iran (Lion and Sun)" /> — و هرکس که به اینترنت آزاد نیاز دارد.
 **هیچ اطلاعاتی از ترافیک شما ذخیره نمی‌شود. پروکسی متعلق به خود شماست.**
 
 📖 [نسخه انگلیسی / English version](README.md)
 
+---
+<a href="https://www.star-history.com/?repos=IRNova%2FNova-Proxy&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=IRNova/Nova-Proxy&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=IRNova/Nova-Proxy&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=IRNova/Nova-Proxy&type=date&legend=top-left" />
+ </picture>
+</a>
 </div>
